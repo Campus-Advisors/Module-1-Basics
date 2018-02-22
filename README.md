@@ -2,7 +2,7 @@
 
 ## Please watch the following tutorials
 
-* Watch: [1.1 Meet Git](https://www.youtube.com/watch?v=-XmpLT30Xl0&t=33s&list=PLIRjfNq867bfM7_94ZWNK0pvbDAKtGbbT&index=1)
+* Watch: [1.1 Meet Git](https://youtu.be/-XmpLT30Xl0)
 * Watch: [1.2 The three-fold model](https://youtu.be/pYwoIy97VBY)
 * Watch: [1.3 Being selective with Git](https://youtu.be/onaXtpgS0R0)
 
